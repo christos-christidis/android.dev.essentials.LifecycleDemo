@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lifecycle Demo</string>
+    <string name="nothing_to_see_here">Nothing to see here, check the log</string>
+</resources>
